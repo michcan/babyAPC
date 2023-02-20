@@ -5,6 +5,8 @@
 Baby APC est l'alliance de l'APC et du Babystep.
 Première fabrication le 4 février 2023 au Labo (Dinan).
 
+Vous trouverez dans ce fichier les schémas, les BOM, les fichiers Fritzing (.fzg) et les fichiers de découpe.
+
 Cette version a été développée par MASSIF Sonore.
 http://massifsonore.eu/
 
